@@ -1,0 +1,10 @@
+C:\Users\Metin\source\repos\Metin Form\Sayısal Loto\Sayısal Loto\bin\Debug\Sayısal Loto.exe.config
+C:\Users\Metin\source\repos\Metin Form\Sayısal Loto\Sayısal Loto\bin\Debug\Sayısal Loto.exe
+C:\Users\Metin\source\repos\Metin Form\Sayısal Loto\Sayısal Loto\bin\Debug\Sayısal Loto.pdb
+C:\Users\Metin\source\repos\Metin Form\Sayısal Loto\Sayısal Loto\obj\Debug\Sayısal Loto.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Sayısal Loto\Sayısal Loto\obj\Debug\Sayısal_Loto.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Sayısal Loto\Sayısal Loto\obj\Debug\Sayısal Loto.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Sayısal Loto\Sayısal Loto\obj\Debug\Sayısal Loto.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Sayısal Loto\Sayısal Loto\obj\Debug\Sayısal Loto.exe
+C:\Users\Metin\source\repos\Metin Form\Sayısal Loto\Sayısal Loto\obj\Debug\Sayısal Loto.pdb
+C:\Users\Metin\source\repos\Metin Form\Sayısal Loto\Sayısal Loto\obj\Debug\Sayısal_Loto.SayısalLoto.resources
